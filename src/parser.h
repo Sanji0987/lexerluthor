@@ -7,9 +7,11 @@
 #include <stdbool.h>
 
 //struct 
-  
 
-.//functions
+
+
+
+//functions
 void parser();
 
 
